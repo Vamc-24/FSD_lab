@@ -1,0 +1,41 @@
+1. Create  a  HTML  document  that  has  your  image  and  your  friend‟s  image  with  a  specific  height 
+and width. Also when clicked on the images it should navigate to their respective profiles. 
+
+2. Write a HTML program, in such a way that, rather than placing large images on a page,the 
+preferred technique is to use thumbnails by setting the height and width parameters  to 
+something  like to  100*100  pixels.  Each  thumbnail  image is  also  a link to a  full  sized  version 
+of the image. Create an image gallery using this technique.
+
+3. Write a HTML program, to explain the working of tables by preparing your class timetable. 
+
+4. Write a HTML program, to embed audio and video into HTML web page. 
+
+5. Write a CSS rule that places a background image halfway down the page, tilting it 
+horizontally. The image should remain in place when the user scrolls up or down. 
+
+6. Create a webpage which uses prompt dialogue box to ask a voter for his name and age. 
+Display the information in table format along with either the voter can vote or not.
+
+7. Write a program which asks the user to enter three integers, obtains the numbers from the 
+user and outputs HTML text that displays the larger number followed by the words “LARGER 
+NUMBER” in an information message dialog. If the numbers are equal, output HTML text as 
+“EQUAL NUMBERS”.Embedded output to HTML page. 
+
+8. Write a program using Node JS to display week days using switch case. 
+
+9. Develop a program using Node JS to determine if a given number is ARMSTRONG NUM‟  or not.
+
+10. Design web page for finding Factorial of that number 
+
+11. Design web page for displaying Fibonacci series up to that number 
+
+12. Design web page for displaying Prime numbers up to that number 
+
+13. Design web page for finding given numner is it palindrome or not
+
+14. Write a program to design a registration page and validate the following fields a mentioned
+    i. Name (start with alphabet and followed by alphanumeric and the length should not be less than 6 characters) 
+    ii. Mobile (only numbers and length 10 digits) 
+    iii. E-mail (should contain format like xxxxxxx@xxxxxx.xxx) 
+
+15. Write a HTML program with three frames, such that page is to be divided into three parts on either direction. 
