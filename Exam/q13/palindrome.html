@@ -1,0 +1,14 @@
+<html>
+ <head><title>Palindrome Check</title></head>
+ <body>
+  <script>
+    let num = prompt("Enter a number:");
+    let reversed = num.split("").reverse().join("");
+    if (num === reversed) {
+      document.write(num + " is a Palindrome");
+    } else {
+      document.write(num + " is Not a Palindrome");
+    }
+  </script>
+ </body>
+ </html>
